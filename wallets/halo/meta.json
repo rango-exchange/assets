@@ -1,0 +1,14 @@
+{
+    "name": "halo",
+    "displayName": "Halo",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/halo-wallet/nbdpmlhambbdkhkmbfpljckjcmgibalo",
+        "brave": "https://chrome.google.com/webstore/detail/halo-wallet/nbdpmlhambbdkhkmbfpljckjcmgibalo",
+        "default": "https://halo.social"
+    },
+    "website": "https://halo.social",
+    "backgroundColor": "#b2dbff",
+    "evmChains": ["ETH", "POLYGON", "BSC"],
+    "cosmosChains": false,
+    "otherChains": []
+}

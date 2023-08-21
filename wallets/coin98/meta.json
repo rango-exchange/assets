@@ -1,0 +1,14 @@
+{
+    "name": "coin98",
+    "displayName": "Coin98",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/coin98-wallet/aeachknmefphepccionboohckonoeemg",
+        "brave": "https://chrome.google.com/webstore/detail/coin98-wallet/aeachknmefphepccionboohckonoeemg",
+        "default": "https://coin98.com/wallet"
+    },
+    "website": "https://coin98.com/wallet",
+    "backgroundColor": "#1d1c25",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": ["SOLANA"]
+}

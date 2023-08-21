@@ -1,0 +1,14 @@
+{
+    "name": "trust-wallet",
+    "displayName": "Trust Wallet",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/trust-wallet/egjidjbpglichdcondbcbdnbeeppgdph",
+        "brave": "https://chrome.google.com/webstore/detail/trust-wallet/egjidjbpglichdcondbcbdnbeeppgdph",
+        "default": "https://trustwallet.com/browser-extension"
+    },
+    "website": "https://trustwallet.com",
+    "backgroundColor": "#fff",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": []
+}

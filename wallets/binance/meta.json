@@ -1,0 +1,15 @@
+{
+    "name": "binance",
+    "displayName": "Binance",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp",
+        "brave": "https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp",
+        "firefox": "https://addons.mozilla.org/en-GB/firefox/addon/argent-x",
+        "default": "https://addons.mozilla.org/en-US/firefox/addon/binance-chain"
+    },
+    "website": "https://www.bnbchain.org/en",
+    "backgroundColor": "#2b2e35",
+    "evmChains": ["BSC", "ETHEREUM"],
+    "cosmosChains": ["‍BNB"],
+    "otherChains": []
+}

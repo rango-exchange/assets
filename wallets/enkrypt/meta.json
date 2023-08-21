@@ -1,0 +1,16 @@
+{
+    "name": "enkrypt",
+    "displayName": "Enkrypt",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/enkrypt/kkpllkodjeloidieedojogacfhpaihoh",
+        "brave": "https://chrome.google.com/webstore/detail/enkrypt/kkpllkodjeloidieedojogacfhpaihoh",
+        "firefox": "https://addons.mozilla.org/en-US/firefox/addon/enkrypt",
+        "edge": "https://microsoftedge.microsoft.com/addons/detail/enkrypt-ethereum-polkad/gfenajajnjjmmdojhdjmnngomkhlnfjl",
+        "default": "https://www.enkrypt.com"
+    },
+    "website": "https://www.enkrypt.com",
+    "backgroundColor": "#fff",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": []
+}

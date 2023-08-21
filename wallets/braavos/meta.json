@@ -1,0 +1,16 @@
+{
+    "name": "braavos",
+    "displayName": "Braavos",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/braavos-smart-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma",
+        "brave": "https://chrome.google.com/webstore/detail/braavos-smart-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma",
+        "firefox": "https://addons.mozilla.org/en-US/firefox/addon/braavos-wallet",
+        "edge": "https://microsoftedge.microsoft.com/addons/detail/braavos-wallet/hkkpjehhcnhgefhbdcgfkeegglpjchdc",
+        "default": "https://braavos.app/download-braavos-wallet/"
+    },
+    "website": "https://braavos.app",
+    "backgroundColor": "#96e7ed",
+    "evmChains": false,
+    "cosmosChains": false,
+    "otherChains": ["STARKNET"]
+}

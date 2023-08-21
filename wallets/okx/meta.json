@@ -1,0 +1,30 @@
+{
+    "name": "okx",
+    "displayName": "OKX",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/okx-wallet/mcohilncbfahbmgdjkbpemcciiolgcge",
+        "brave": "https://chrome.google.com/webstore/detail/okx-wallet/mcohilncbfahbmgdjkbpemcciiolgcge",
+        "firefox": "https://addons.mozilla.org/en-US/firefox/addon/okexwallet",
+        "default": "https://www.okx.com/web3"
+    },
+    "website": "https://www.okx.com/web3",
+    "backgroundColor": "#fff",
+    "evmChains": [
+        "ETH", 
+        "BSC", 
+        "POLYGON", 
+        "FANTOM", 
+        "ARBITRUM", 
+        "OPTIMISM", 
+        "CRONOS", 
+        "BOBA",
+        "GNOSIS",
+        "MOONBEAM",
+        "MOONRIVER",
+        "HARMONY",
+        "MOONBEAM",
+        "AVAX_CCHAIN"
+    ],
+    "cosmosChains": false,
+    "otherChains": ["BTC", "SOLANA", "TRON", "LTC"]
+}

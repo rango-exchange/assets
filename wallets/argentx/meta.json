@@ -1,0 +1,15 @@
+{
+    "name": "argentx",
+    "displayName": "ArgentX",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/argent-x/dlcobpjiigpikoobohmabehhmhfoodbb",
+        "brave": "https://chrome.google.com/webstore/detail/argent-x/dlcobpjiigpikoobohmabehhmhfoodbb",
+        "firefox": "https://addons.mozilla.org/en-GB/firefox/addon/argent-x",
+        "default": "https://www.argent.xyz/argent-x"
+    },
+    "website": "https://www.argent.xyz",
+    "backgroundColor": "#96e7ed",
+    "evmChains": false,
+    "cosmosChains": false,
+    "otherChains": ["STARKNET"]
+}

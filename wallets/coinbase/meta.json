@@ -1,0 +1,14 @@
+{
+    "name": "coinbase",
+    "displayName": "Coinbase",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad",
+        "brave": "https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad",
+        "default": "https://www.coinbase.com/wallet"
+    },
+    "website": "https://www.coinbase.com/wallet",
+    "backgroundColor": "#2a62f5",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": ["SOLANA"]
+}

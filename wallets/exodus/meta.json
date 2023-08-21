@@ -1,0 +1,14 @@
+{
+    "name": "exodus",
+    "displayName": "Exodus",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/exodus-web3-wallet/aholpfdialjgjfhomihkjbmgjidlcdno",
+        "brave": "https://chrome.google.com/webstore/detail/exodus-web3-wallet/aholpfdialjgjfhomihkjbmgjidlcdno",
+        "default": "https://www.exodus.com/download"
+    },
+    "website": "https://www.exodus.com",
+    "backgroundColor": "#8f70fa",
+    "evmChains": ["ETH", "BSC", "POLYGON", "AVAX_CCHAIN"],
+    "cosmosChains": false,
+    "otherChains": ["SOLANA", "BNB"]
+}

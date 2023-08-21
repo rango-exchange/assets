@@ -1,0 +1,21 @@
+{
+    "name": "taho",
+    "displayName": "Taho",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/taho/eajafomhmkipbjmfmhebemolkcicgfmd",
+        "brave": "https://chrome.google.com/webstore/detail/taho/eajafomhmkipbjmfmhebemolkcicgfmd",
+        "default": "https://taho.xyz"
+    },
+    "website": "https://taho.xyz",
+    "backgroundColor": "#ffffff",
+    "evmChains": [
+        "ETH",
+        "BSC",
+        "POLYGON",
+        "ARBITRUM",
+        "AVAX_CCHAIN",
+        "OPTIMISM"
+    ],
+    "cosmosChains": false,
+    "otherChains": []
+}

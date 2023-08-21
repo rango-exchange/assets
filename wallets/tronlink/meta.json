@@ -1,0 +1,14 @@
+{
+    "name": "tronlink",
+    "displayName": "TronLink",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec",
+        "brave": "https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec",
+        "default": "https://www.tronlink.org/dlDetails/"
+    },
+    "website": "https://www.tronlink.org",
+    "backgroundColor": "#96e7ed",
+    "evmChains": false,
+    "cosmosChains": false,
+    "otherChains": ["TRON"]
+}

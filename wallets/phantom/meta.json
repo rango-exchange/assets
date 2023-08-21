@@ -1,0 +1,15 @@
+{
+    "name": "phantom",
+    "displayName": "Phantom",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa",
+        "brave": "https://chrome.google.com/webstore/detail/phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa",
+        "firefox": "https://addons.mozilla.org/en-US/firefox/addon/phantom-app/",
+        "default": "https://phantom.app/download"
+    },
+    "website": "https://phantom.app",
+    "backgroundColor": "#fff",
+    "evmChains": false,
+    "cosmosChains": false,
+    "otherChains": ["SOLANA"]
+}

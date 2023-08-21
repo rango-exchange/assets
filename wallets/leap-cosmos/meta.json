@@ -1,0 +1,14 @@
+{
+    "name": "leap-cosmos",
+    "displayName": "Leap Cosmos",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/leap-cosmos-wallet/fcfcfllfndlomdhbehjjcoimbgofdncg",
+        "brave": "https://chrome.google.com/webstore/detail/leap-cosmos-wallet/fcfcfllfndlomdhbehjjcoimbgofdncg",
+        "default": "https://www.leapwallet.io/cosmos"
+    },
+    "website": "https://www.leapwallet.io/cosmos",
+    "backgroundColor": "#000000",
+    "evmChains": false,
+    "cosmosChains": true,
+    "otherChains": []
+}

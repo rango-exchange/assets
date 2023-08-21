@@ -1,0 +1,14 @@
+{
+    "name": "cosmostation",
+    "displayName": "Cosmostation",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/cosmostation/fpkhgmpbidmiogeglndfbkegfdlnajnf",
+        "brave": "https://chrome.google.com/webstore/detail/cosmostation/fpkhgmpbidmiogeglndfbkegfdlnajnf",
+        "default": "https://cosmostation.io"
+    },
+    "website": "https://cosmostation.io",
+    "backgroundColor": "#000000",
+    "evmChains": true,
+    "cosmosChains": true,
+    "otherChains": []
+}

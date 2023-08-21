@@ -1,0 +1,17 @@
+{
+    "name": "metamask",
+    "displayName": "MetaMask",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn",
+        "brave": "https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn",
+        "firefox": "https://addons.mozilla.org/en-US/firefox/addon/ether-metamask",
+        "edge": "https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm",
+        
+        "default": "https://metamask.io/download"
+    },
+    "website": "https://metamask.io",
+    "backgroundColor": "#dac7ae",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": []
+}

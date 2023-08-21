@@ -1,0 +1,27 @@
+{
+    "name": "xdefi",
+    "displayName": "XDeFi",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/xdefi-wallet/hmeobnfnfcmdkdcmlblgagmfpfboieaf",
+        "brave": "https://chrome.google.com/webstore/detail/xdefi-wallet/hmeobnfnfcmdkdcmlblgagmfpfboieaf",
+        "default": "https://xdefi.io"
+    },
+    "website": "https://xdefi.io",
+    "backgroundColor": "#0646c7",
+    "evmChains": [
+        "ETH",
+        "POLYGON",
+        "BSC",
+        "AVAX_CCHAIN",
+        "FANTOM",
+        "ARBITRUM"
+    ],
+    "cosmosChains": false,
+    "otherChains": [
+        "BTC",
+        "LTC",
+        "THOR",
+        "BNB",
+        "BCH"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "mytonwallet",
+    "displayName": "MyTonWallet",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/mytonwallet-%C2%B7-my-ton-wall/fldfpgipfncgndfolcbkdeeknbbbnhcc",
+        "brave": "https://chrome.google.com/webstore/detail/mytonwallet-%C2%B7-my-ton-wall/fldfpgipfncgndfolcbkdeeknbbbnhcc",
+        "default": "https://mytonwallet.io"
+    },
+    "website": "https://mytonwallet.io",
+    "backgroundColor": "#fff",
+    "evmChains": false,
+    "cosmosChains": false,
+    "otherChains": ["TON"]
+}

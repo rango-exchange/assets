@@ -1,0 +1,15 @@
+{
+    "name": "safepal",
+    "displayName": "SafePal",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/safepal-extension-wallet/lgmpcpglpngdoalbgeoldeajfclnhafa",
+        "brave": "https://chrome.google.com/webstore/detail/safepal-extension-wallet/lgmpcpglpngdoalbgeoldeajfclnhafa",
+        "firefox": "https://addons.mozilla.org/en-US/firefox/addon/safepal-extension-wallet",
+        "default": "https://www.safepal.com/download"
+    },
+    "website": "https://www.safepal.com",
+    "backgroundColor": "#4A21EF",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": ["SOLANA"]
+}

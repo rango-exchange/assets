@@ -1,0 +1,10 @@
+{
+    "name": "wallet-connect",
+    "displayName": "Wallet Connect",
+    "downloadURLs": {},
+    "website": "https://walletconnect.com",
+    "backgroundColor": "#fff",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": []
+}

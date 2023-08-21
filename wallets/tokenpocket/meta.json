@@ -1,0 +1,14 @@
+{
+    "name": "token-pocket",
+    "displayName": "TokenPocket",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/tokenpocket/mfgccjchihfkkindfppnaooecgfneiii",
+        "brave": "https://chrome.google.com/webstore/detail/tokenpocket/mfgccjchihfkkindfppnaooecgfneiii",
+        "default": "https://www.tokenpocket.pro/en/download/app"
+    },
+    "website": "https://www.tokenpocket.pro",
+    "backgroundColor": "#ffffff",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": []
+}

@@ -1,0 +1,12 @@
+{
+    "name": "brave",
+    "displayName": "Brave",
+    "downloadURLs": {
+        "default": "https://brave.com/wallet"
+    },
+    "website": "https://brave.com",
+    "backgroundColor": "#ef342f",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": ["SOLANA"]
+}

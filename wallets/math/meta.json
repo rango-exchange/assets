@@ -1,0 +1,16 @@
+{
+    "name": "math",
+    "displayName": "Math",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/math-wallet/afbcbjpbpfadlkmhmclhkeeodmamcflc",
+        "brave": "https://chrome.google.com/webstore/detail/math-wallet/afbcbjpbpfadlkmhmclhkeeodmamcflc",
+        "edge": "https://microsoftedge.microsoft.com/addons/detail/math-wallet/dfeccadlilpndjjohbjdblepmjeahlmm",
+        
+        "default": "https://mathwallet.org"
+    },
+    "website": "https://mathwallet.org",
+    "backgroundColor": "#2b2f25",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": ["SOLANA"]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "safe",
+    "displayName": "Safe",
+    "downloadURLs": {
+        "default": "https://app.safe.global"
+    },
+    "website": "https://safe.global",
+    "backgroundColor": "#ffffff",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": []
+}

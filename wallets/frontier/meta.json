@@ -1,0 +1,14 @@
+{
+    "name": "frontier",
+    "displayName": "Frontier",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/frontier-wallet/kppfdiipphfccemcignhifpjkapfbihd",
+        "brave": "https://chrome.google.com/webstore/detail/frontier-wallet/kppfdiipphfccemcignhifpjkapfbihd",
+        "default": "https://www.frontier.xyz"
+    },
+    "website": "https://www.frontier.xyz",
+    "backgroundColor": "#4d40c6",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": ["SOLANA"]
+}

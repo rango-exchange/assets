@@ -1,0 +1,13 @@
+{
+    "name": "clover",
+    "displayName": "Clover",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/clover-wallet/nhnkbkgjikgcigadomkphalanndcapjk",
+        "default": "https://clv.org"
+    },
+    "website": "https://clv.org",
+    "backgroundColor": "#96e7ed",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": ["SOLANA"]
+}

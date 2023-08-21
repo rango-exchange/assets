@@ -1,0 +1,14 @@
+{
+    "name": "bitget",
+    "displayName": "Bitget",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/bitkeep-crypto-nft-wallet/jiidiaalihmmhddjgbnbgdfflelocpak",
+        "brave": "https://chrome.google.com/webstore/detail/bitkeep-crypto-nft-wallet/jiidiaalihmmhddjgbnbgdfflelocpak",
+        "default": "https://web3.bitget.com/en/wallet-download"
+    },
+    "website": "https://web3.bitget.com/en",
+    "backgroundColor": "#ffffff",
+    "evmChains": true,
+    "cosmosChains": false,
+    "otherChains": ["TRON"]
+}

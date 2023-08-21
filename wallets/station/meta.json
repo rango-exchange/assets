@@ -1,0 +1,15 @@
+{
+    "name": "station",
+    "displayName": "Station",
+    "downloadURLs": {
+        "chrome": "https://chrome.google.com/webstore/detail/terra-station/aiifbnbfobpmeekipheeijimdpnlpgpp",
+        "brave": "https://chrome.google.com/webstore/detail/terra-station/aiifbnbfobpmeekipheeijimdpnlpgpp",
+        "firefox": "https://addons.mozilla.org/en-US/firefox/addon/terra-station-wallet",
+        "default": "https://station.terra.money"
+    },
+    "website": "https://station.terra.money",
+    "backgroundColor": "#ffffff",
+    "evmChains": false,
+    "cosmosChains": false,
+    "otherChains": ["TERRA", "TERRA_CLASSIC"]
+}
