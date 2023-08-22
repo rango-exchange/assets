@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="200px" viewBox="0 0 200 200" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image7" width="200" height="200" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAABmJLR0QA/wD/AP+gvaeTAAAB5UlEQVR4nO3TsUlDUQBA0fclA4h9wBFSOoWzOICC42QBK4dwAAew1kYhiC4gNyofnsI5E9zmjgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAXltkB3/VxOL8ey8V2dgcreRpXy3b/OjvjmH80yN3DWC53sztYycs4Xc7en2dnHHMyOwD+MoNAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCITN7IAfuB9jPM6OYCVvt4cxbmZXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8DufyMUSe6ea0p4AAAAASUVORK5CYII="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image7"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="200" height="200"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 138.417969 160.652344 L 42.1875 160.652344 L 42.1875 59.050781 L 64.207031 59.050781 L 64.207031 140.960938 L 138.417969 140.960938 Z M 138.417969 160.652344 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 138.417969 78.730469 C 149.265625 78.730469 158.058594 69.917969 158.058594 59.050781 C 158.058594 48.179688 149.265625 39.371094 138.417969 39.371094 C 127.570312 39.371094 118.777344 48.179688 118.777344 59.050781 C 118.777344 69.917969 127.570312 78.730469 138.417969 78.730469 Z M 138.417969 78.730469 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface6" mask="url(#mask0)"/>
+</g>
+</svg>
