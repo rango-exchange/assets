@@ -1,15 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="200px" viewBox="0 0 200 200" version="1.1">
-<defs>
-<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="16" y1="0" x2="16" y2="32" gradientTransform="matrix(6.25,0,0,6.25,0,0)">
-<stop offset="0" style="stop-color:rgb(43.137255%,49.803922%,93.72549%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(36.078431%,40.392157%,69.019608%);stop-opacity:1;"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FBD52E;}
+	.st2{fill:#FFFFFF;}
+</style>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 100 200 C 155.230469 200 200 155.230469 200 100 C 200 44.769531 155.230469 0 100 0 C 44.769531 0 0 44.769531 0 100 C 0 155.230469 44.769531 200 100 200 Z M 100 200 "/>
-<path style="fill:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 16 31.75 C 24.698125 31.75 31.75 24.698125 31.75 16 C 31.75 7.301875 24.698125 0.25 16 0.25 C 7.301875 0.25 0.25 7.301875 0.25 16 C 0.25 24.698125 7.301875 31.75 16 31.75 Z M 16 31.75 " transform="matrix(6.25,0,0,6.25,0,0)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 105.144531 105.992188 L 94.832031 105.992188 L 94.949219 106.3125 L 74.195312 159.0625 L 82.90625 162.5 L 99.996094 119.101562 L 117.0625 162.5 L 125.777344 159.0625 L 105.027344 106.3125 Z M 105.144531 105.992188 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 162.5 82.925781 L 159.0625 74.207031 L 106.3125 94.960938 L 105.394531 94.605469 L 105.039062 93.6875 L 125.789062 40.9375 L 117.082031 37.5 L 100.019531 80.898438 L 82.917969 37.5 L 74.199219 40.9375 L 94.957031 93.6875 L 94.601562 94.605469 L 93.679688 94.960938 L 40.929688 74.210938 L 37.5 82.917969 L 80.898438 100 L 37.5 117.074219 L 40.9375 125.792969 L 93.6875 105.039062 L 94.539062 105.367188 L 94.539062 95.070312 L 95.007812 95.070312 L 94.949219 94.949219 L 95.242188 95.074219 L 104.757812 95.074219 L 105.050781 94.949219 L 104.992188 95.074219 L 105.460938 95.074219 L 105.460938 105.367188 L 106.3125 105.039062 L 159.0625 125.789062 L 162.5 117.074219 L 119.101562 100.011719 L 162.5 82.917969 Z M 162.5 82.925781 "/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="7.064" y1="100" x2="192.936" y2="100">
+		<stop  offset="0" style="stop-color:#6E7FEF"/>
+		<stop  offset="1" style="stop-color:#5C67B0"/>
+	</linearGradient>
+	<path class="st0" d="M100,192.9c51.3,0,92.9-41.6,92.9-92.9c0-51.3-41.6-92.9-92.9-92.9C48.7,7.1,7.1,48.7,7.1,100
+		C7.1,151.3,48.7,192.9,100,192.9z"/>
+</g>
+<path class="st1" d="M263.4-7.6"/>
+<g>
+	<path class="st2" d="M105.1,106H94.8l0.1,0.3l-20.8,52.8l8.7,3.4l17.1-43.4l17.1,43.4l8.7-3.4L105,106.3L105.1,106z"/>
+	<path class="st2" d="M162.5,82.9l-3.4-8.7L106.3,95l-0.9-0.4l-0.4-0.9l20.8-52.8l-8.7-3.4L100,80.9L82.9,37.5l-8.7,3.4L95,93.7
+		l-0.4,0.9L93.7,95L40.9,74.2l-3.4,8.7L80.9,100l-43.4,17.1l3.4,8.7L93.7,105l0.9,0.3V95.1H95l-0.1-0.1l0.3,0.1h9.5l0.3-0.1
+		l-0.1,0.1h0.5v10.3l0.9-0.3l52.8,20.8l3.4-8.7L119.1,100L162.5,82.9L162.5,82.9z"/>
 </g>
 </svg>

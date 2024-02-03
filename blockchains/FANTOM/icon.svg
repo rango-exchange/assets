@@ -1,24 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="200px" viewBox="0 0 200 200" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<image id="image7" width="200" height="200" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAABmJLR0QA/wD/AP+gvaeTAAABvUlEQVR4nO3TsRUBURQA0b+ORE1k9EVvyhKsDiZ9e7i3gklmLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4cdt0wJT9c7+tdblOd3BsfzzI/lrb+TndwbGdpgPgyAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQtumAKfvn/VhrPaY7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGfQGWegr5GSD2bAAAAABJRU5ErkJggg=="/>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<use xlink:href="#image7"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="200" height="200"/>
-</clipPath>
-<g id="surface6" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 107.5 80.625 L 130 67.5 L 130 93.75 Z M 130 136.875 L 100 154.375 L 70 136.875 L 70 106.25 L 100 123.75 L 130 106.25 Z M 70 67.5 L 92.5 80.625 L 70 93.75 Z M 103.75 86.875 L 126.25 100 L 103.75 113.125 Z M 96.25 113.125 L 73.75 100 L 96.25 86.875 Z M 126.25 61.25 L 100 76.25 L 73.75 61.25 L 100 45.625 Z M 62.5 58.75 L 62.5 140.625 L 100 161.875 L 137.5 140.625 L 137.5 58.75 L 100 37.5 Z M 62.5 58.75 "/>
-</g>
-</defs>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#13B5EC;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FBD52E;}
+	.st2{clip-path:url(#SVGID_00000147192483002400783270000007524855518563409800_);}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(7.45098%,70.980392%,92.54902%);fill-opacity:1;" d="M 200 100 C 200 155.226562 155.226562 200 100 200 C 44.773438 200 0 155.226562 0 100 C 0 44.773438 44.773438 0 100 0 C 155.226562 0 200 44.773438 200 100 Z M 200 100 "/>
-<use xlink:href="#surface6" mask="url(#mask0)"/>
+	<path class="st0" d="M194.8,100c0,52.4-42.5,94.8-94.8,94.8S5.2,152.4,5.2,100S47.6,5.2,100,5.2S194.8,47.6,194.8,100z"/>
+</g>
+<path class="st1" d="M263.4-7.6"/>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" width="200" height="200"/>
+		</defs>
+		<clipPath id="SVGID_00000062192982325871023430000009328689060683231642_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="surface6" style="clip-path:url(#SVGID_00000062192982325871023430000009328689060683231642_);">
+			<path class="st3" d="M107.5,80.6L130,67.5v26.2L107.5,80.6z M130,136.9l-30,17.5l-30-17.5v-30.6l30,17.5l30-17.5V136.9z M70,67.5
+				l22.5,13.1L70,93.8V67.5z M103.8,86.9l22.5,13.1l-22.5,13.1V86.9z M96.2,113.1L73.8,100l22.5-13.1V113.1z M126.2,61.2l-26.2,15
+				l-26.2-15L100,45.6L126.2,61.2z M62.5,58.8v81.9l37.5,21.2l37.5-21.2V58.8L100,37.5L62.5,58.8z"/>
+		</g>
+	</g>
 </g>
 </svg>
