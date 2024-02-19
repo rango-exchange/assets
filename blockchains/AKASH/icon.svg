@@ -1,8 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="200px" viewBox="0 0 200 200" version="1.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#212121;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#EC3A26;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#AE2025;}
+</style>
+<circle class="st0" cx="100" cy="100" r="100"/>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(92.941176%,20.784314%,14.117647%);fill-opacity:1;" d="M 65.132812 2.777344 L 166.449219 197.222656 L 200 132.164062 L 132.238281 2.777344 Z M 65.132812 2.777344 "/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(68.235294%,11.764706%,13.72549%);fill-opacity:1;" d="M 65.132812 135.820312 L 100 197.222656 L 169.738281 197.222656 L 134.867188 135.820312 Z M 65.132812 135.820312 "/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(92.941176%,20.784314%,14.117647%);fill-opacity:1;" d="M 34.867188 64.179688 L 0 130.703125 L 34.867188 197.222656 L 105.261719 64.179688 Z M 34.867188 64.179688 "/>
+	<path class="st1" d="M75.3,25.4l71.9,137.9l23.8-46.2l-48.1-91.7C122.8,25.4,75.3,25.4,75.3,25.4z"/>
+	<path class="st2" d="M75.3,119.7l24.7,43.5h49.4l-24.7-43.5H75.3z"/>
+	<path class="st1" d="M53.8,68.9L29.1,116l24.7,47.1l49.8-94.3H53.8V68.9z"/>
 </g>
 </svg>

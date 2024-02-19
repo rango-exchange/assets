@@ -8,11 +8,12 @@
 	.st2{fill:#FFFFFF;}
 </style>
 <g id="surface1_00000066475094778492874230000000461473635953375419_">
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="5.158" y1="100" x2="194.842" y2="100">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="2.861023e-06" y1="99.89" x2="200" y2="99.89" gradientTransform="matrix(1 0 0 -1 0 199.89)">
 		<stop  offset="0" style="stop-color:#3756FC"/>
 		<stop  offset="1" style="stop-color:#052CFB"/>
 	</linearGradient>
-	<path class="st0" d="M194.8,100c0,52.4-42.5,94.9-94.8,94.9S5.2,152.4,5.2,100C5.2,47.6,47.6,5.1,100,5.1S194.8,47.6,194.8,100z"/>
+	<path class="st0" d="M200,100c0,55.3-44.8,100.1-100,100.1S0,155.3,0,100S44.7-0.1,100-0.1S200,44.7,200,100z"/>
 </g>
 <path class="st1" d="M263.4-7.6"/>
 <g>

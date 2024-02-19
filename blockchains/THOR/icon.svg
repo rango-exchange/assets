@@ -8,14 +8,13 @@
 	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FBD52E;}
 </style>
 <g id="surface1">
-	<path class="st0" d="M195.8,100c0,52.9-42.9,95.8-95.8,95.8c-52.9,0-95.8-42.9-95.8-95.8C4.2,47.1,47.1,4.2,100,4.2
-		C152.9,4.2,195.8,47.1,195.8,100z"/>
+	<path class="st0" d="M200,100c0,55.2-44.8,100-100,100S0,155.2,0,100S44.8,0,100,0S200,44.8,200,100z"/>
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32.2491" y1="123.5361" x2="120.6788" y2="123.5361" gradientTransform="matrix(1.3078 0 0 -1.3078 0 261.5564)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-113.6334" y1="1133.6699" x2="-23.9408" y2="1133.6699" gradientTransform="matrix(1.3078 0 0 1.3078 181.9098 -1382.6636)">
 		<stop  offset="0" style="stop-color:#00CCFF"/>
 		<stop  offset="1" style="stop-color:#33FF99"/>
 	</linearGradient>
-	<path class="st1" d="M42.2,166.3l92.6-39l-29.3-29.7L42.2,166.3z M76.2,67.9l29.3,29.7l52.3-63.9L76.2,67.9z"/>
+	<path class="st1" d="M33.3,167.3l94-39.6L97.6,97.6L33.3,167.3z M67.8,67.4l29.7,30.1l53.1-64.9L67.8,67.4z"/>
 </g>
 <path class="st2" d="M263.4-7.6"/>
 </svg>
