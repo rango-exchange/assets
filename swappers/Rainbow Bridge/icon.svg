@@ -1,13 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="px" viewBox="0 0 200 231" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 97.277344 109.210938 C 121.183594 109.210938 140.5625 128.578125 140.5625 152.472656 L 197.285156 152.472656 C 197.28125 97.269531 152.507812 52.519531 97.273438 52.519531 L 97.273438 109.210938 Z M 97.277344 109.210938 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,44.705882%,80.784314%);fill-opacity:1;" d="M 97.277344 80.878906 L 68.902344 80.878906 L 68.902344 109.234375 L 97.277344 109.234375 Z M 97.277344 80.878906 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(21.568627%,85.882353%,95.686275%);fill-opacity:1;" d="M 68.902344 80.878906 L 40.53125 80.878906 L 40.53125 109.234375 L 68.902344 109.234375 Z M 68.902344 80.878906 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(94.901961%,93.333333%,51.372549%);fill-opacity:1;" d="M 28.371094 97.082031 L 0 97.082031 L 0 125.441406 L 28.371094 125.441406 Z M 28.371094 97.082031 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,75.294118%,54.509804%);fill-opacity:1;" d="M 68.902344 109.234375 L 40.53125 109.234375 L 40.53125 137.59375 L 68.902344 137.59375 Z M 68.902344 109.234375 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,69.803922%,34.901961%);fill-opacity:1;" d="M 40.53125 137.59375 L 12.160156 137.59375 L 12.160156 165.949219 L 40.53125 165.949219 Z M 40.53125 137.59375 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,34.509804%,36.470588%);fill-opacity:1;" d="M 81.0625 149.746094 L 52.691406 149.746094 L 52.691406 178.101562 L 81.0625 178.101562 Z M 81.0625 149.746094 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(56.078431%,80.392157%,100%);fill-opacity:1;" d="M 97.277344 52.519531 L 68.902344 52.519531 L 68.902344 80.878906 L 97.277344 80.878906 Z M 97.277344 52.519531 "/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F4F4F4;}
+	.st1{fill:#0072CE;}
+	.st2{fill:#8FCDFF;}
+	.st3{fill:#36DBF5;}
+	.st4{fill:#F2EE83;}
+	.st5{fill:#00C08B;}
+	.st6{fill:#FFB259;}
+	.st7{fill:#FF585D;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FBD52E;}
+</style>
+<g id="Layer_x0020_1">
+	<g id="_2090755387392">
+		<path class="st0" d="M100,0.4L100,0.4c55,0,99.6,44.6,99.6,99.6l0,0c0,55-44.6,99.6-99.6,99.6l0,0C45,199.6,0.4,155,0.4,100l0,0
+			C0.4,45,45,0.4,100,0.4z"/>
+		<g>
+			<rect x="75.8" y="71.7" class="st1" width="22.7" height="22.7"/>
+			<rect x="75.8" y="49" class="st2" width="22.7" height="22.7"/>
+			<rect x="53.1" y="71.7" class="st3" width="22.7" height="22.7"/>
+			<rect x="19.4" y="82.4" class="st4" width="22.7" height="22.7"/>
+			<rect x="53.1" y="94.4" class="st5" width="22.7" height="22.7"/>
+			<rect x="30.4" y="117" class="st6" width="22.7" height="22.7"/>
+			<rect x="64.5" y="128.3" class="st7" width="22.7" height="22.7"/>
+			<path d="M98.5,49v45.4c0,0,34,1.7,34.3,33.9h47.8C180.6,128.3,176.7,49,98.5,49z"/>
+		</g>
+	</g>
 </g>
+<path class="st8" d="M99,100.7"/>
 </svg>
