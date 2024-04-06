@@ -1,0 +1,13 @@
+{
+  "name": "ledger",
+  "displayName": "Ledger",
+  "downloadURLs": {
+    "chrome": "https://support.ledger.com/hc/en-us/articles/4404389606417-Download-and-install-Ledger-Live?docs=true",
+    "default": "https://support.ledger.com/hc/en-us/articles/4404389606417-Download-and-install-Ledger-Live?docs=true"
+  },
+  "website": "https://support.ledger.com/hc/en-us/articles/4404389606417-Download-and-install-Ledger-Live?docs=true",
+  "backgroundColor": "#000000",
+  "evmChains": true,
+  "cosmosChains": false,
+  "otherChains": []
+}
