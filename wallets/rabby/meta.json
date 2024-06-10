@@ -1,0 +1,13 @@
+{
+  "name": "rabby",
+  "displayName": "Rabby",
+  "downloadURLs": {
+    "chrome": "https://chromewebstore.google.com/detail/rabby-wallet/acmacodkjbdgmoleebolmdjonilkdbch",
+    "default": "https://rabby.io/"
+  },
+  "website": "https://rabby.io/",
+  "backgroundColor": "#fff",
+  "evmChains": true,
+  "cosmosChains": false,
+  "otherChains": []
+}
