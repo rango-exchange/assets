@@ -1,0 +1,13 @@
+{
+  "name": "tomo",
+  "displayName": "Tomo",
+  "downloadURLs": {
+    "chrome": "https://chromewebstore.google.com/detail/tomo-wallet/pfccjkejcgoppjnllalolplgogenfojk",
+    "default": "https://tomo.inc/"
+  },
+  "website": "https://tomo.inc/",
+  "backgroundColor": "#fff",
+  "evmChains": true,
+  "cosmosChains": false,
+  "otherChains": []
+}
