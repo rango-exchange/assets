@@ -1,0 +1,13 @@
+{
+    "name": "trezor",
+    "displayName": "Trezor",
+    "downloadURLs": {
+        "chrome": "https://trezor.io/learn/a/download-verify-trezor-suite",
+        "brave": "https://trezor.io/learn/a/download-verify-trezor-suite",
+        "default": "https://trezor.io/"
+    },
+    "website": "https://trezor.io/",
+    "backgroundColor": "#000000",
+    "cosmosChains": false,
+    "otherChains": []
+}
