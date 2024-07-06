@@ -1,0 +1,11 @@
+{
+    "name": "trezor",
+    "displayName": "Trezor",
+    "downloadURLs": {
+       "default": "https://trezor.io/"
+    },
+    "website": "https://trezor.io/",
+    "backgroundColor": "#000000",
+    "cosmosChains": false,
+    "otherChains": []
+}
