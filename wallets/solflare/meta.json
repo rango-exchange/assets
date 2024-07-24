@@ -1,0 +1,16 @@
+{
+  "name": "solflare",
+  "displayName": "Solflare",
+  "downloadURLs": {
+    "chrome": "https://chromewebstore.google.com/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic",
+    "brave": "https://chromewebstore.google.com/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic",
+    "edge": "https://chromewebstore.google.com/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic",
+    "firefox": "https://addons.mozilla.org/en-US/firefox/addon/solflare-wallet/",
+    "default": "https://phantom.app/download"
+  },
+  "website": "https://solflare.com",
+  "backgroundColor": "#fff",
+  "evmChains": false,
+  "cosmosChains": false,
+  "otherChains": ["SOLANA"]
+}
