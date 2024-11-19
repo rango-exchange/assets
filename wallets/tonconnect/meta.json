@@ -1,0 +1,10 @@
+{
+  "name": "ton-connect",
+  "displayName": "Ton Connect",
+  "downloadURLs": {},
+  "website": "https://docs.ton.org/v3/guidelines/ton-connect/guidelines/developers#ton-connect-ui",
+  "backgroundColor": "#fff",
+  "evmChains": false,
+  "cosmosChains": false,
+  "otherChains": ["TON"]
+}

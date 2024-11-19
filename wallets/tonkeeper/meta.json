@@ -1,0 +1,16 @@
+{
+  "name": "tonkeeper",
+  "displayName": "Tonkeeper",
+  "downloadURLs": {
+    "chrome": "https://chromewebstore.google.com/detail/tonkeeper-%E2%80%94-wallet-for-to/omaabbefbmiijedngplfjmnooppbclkk",
+    "brave": "https://chromewebstore.google.com/detail/tonkeeper-%E2%80%94-wallet-for-to/omaabbefbmiijedngplfjmnooppbclkk",
+    "firefox": "https://addons.mozilla.org/en-US/firefox/addon/tonkeeper/",
+    "edge": "https://chromewebstore.google.com/detail/tonkeeper-%E2%80%94-wallet-for-to/omaabbefbmiijedngplfjmnooppbclkk",
+    "default": "https://tonkeeper.com/"
+  },
+  "website": "https://tonkeeper.com/",
+  "backgroundColor": "#fff",
+  "evmChains": false,
+  "cosmosChains": false,
+  "otherChains": ["TON"]
+}
