@@ -1,27 +1,14 @@
 {
-    "name": "xdefi",
-    "displayName": "XDeFi",
-    "downloadURLs": {
-        "chrome": "https://chrome.google.com/webstore/detail/xdefi-wallet/hmeobnfnfcmdkdcmlblgagmfpfboieaf",
-        "brave": "https://chrome.google.com/webstore/detail/xdefi-wallet/hmeobnfnfcmdkdcmlblgagmfpfboieaf",
-        "default": "https://xdefi.io"
-    },
-    "website": "https://xdefi.io",
-    "backgroundColor": "#0646c7",
-    "evmChains": [
-        "ETH",
-        "POLYGON",
-        "BSC",
-        "AVAX_CCHAIN",
-        "FANTOM",
-        "ARBITRUM"
-    ],
-    "cosmosChains": false,
-    "otherChains": [
-        "BTC",
-        "LTC",
-        "THOR",
-        "BNB",
-        "BCH"
-    ]
+  "name": "ctrl",
+  "displayName": "Ctrl",
+  "downloadURLs": {
+    "chrome": "https://chromewebstore.google.com/detail/ctrl-wallet/hmeobnfnfcmdkdcmlblgagmfpfboieaf",
+    "brave": "https://chromewebstore.google.com/detail/ctrl-wallet/hmeobnfnfcmdkdcmlblgagmfpfboieaf",
+    "default": "https://ctrl.xyz/"
+  },
+  "website": "https://ctrl.xyz/",
+  "backgroundColor": "#fff",
+  "evmChains": ["ETH", "POLYGON", "BSC", "AVAX_CCHAIN", "FANTOM", "ARBITRUM"],
+  "cosmosChains": false,
+  "otherChains": ["BTC", "LTC", "THOR", "BNB", "BCH"]
 }
