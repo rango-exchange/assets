@@ -1,0 +1,15 @@
+{
+    "name": "pontem",
+    "displayName": "Pontem",
+    "downloadURLs": {
+        "chrome": "https://chromewebstore.google.com/detail/pontem-crypto-wallet-eth/phkbamefinggmakgklpkljjmgibohnba",
+        "brave": "https://chromewebstore.google.com/detail/pontem-crypto-wallet-eth/phkbamefinggmakgklpkljjmgibohnba",
+        "firefox": "https://addons.mozilla.org/en-US/firefox/addon/pontem-aptos-wallet/",
+        "default": "https://pontem.network/pontem-wallet"
+    },
+    "website": "https://pontem.network/pontem-wallet",
+    "backgroundColor": "#6f44ca",
+    "evmChains": false,
+    "cosmosChains": false,
+    "otherChains": ["SOLANA"]
+}
