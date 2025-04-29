@@ -1,0 +1,13 @@
+{
+    "name": "slush",
+    "displayName": "Slush",
+    "downloadURLs": {
+        "chrome": "https://chromewebstore.google.com/detail/slush-%E2%80%94-a-sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil",
+        "default": "https://slush.app/download"
+    },
+    "website": "https://slush.app/",
+    "backgroundColor": "#4da2ff",
+    "evmChains": false,
+    "cosmosChains": false,
+    "otherChains": ["SUI"]
+}
