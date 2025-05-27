@@ -1,0 +1,14 @@
+{
+  "name": "unisat",
+  "displayName": "UniSat",
+  "downloadURLs": {
+    "chrome": "https://chromewebstore.google.com/detail/unisat-wallet/ppbibelpcjmhbdihakflkdcoccbgbkpo",
+    "brave": "https://chromewebstore.google.com/detail/unisat-wallet/ppbibelpcjmhbdihakflkdcoccbgbkpo",    
+    "default": "https://unisat.io/download"
+  },
+  "website": "https://unisat.io/",
+  "backgroundColor": "#e9983d",
+  "evmChains": false,
+  "cosmosChains": false,
+  "otherChains": ["BTC"]
+}
