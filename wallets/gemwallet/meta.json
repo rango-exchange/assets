@@ -1,0 +1,14 @@
+{
+  "name": "unisat",
+  "displayName": "UniSat",
+  "downloadURLs": {
+    "chrome": "https://chromewebstore.google.com/detail/gemwallet/egebedonbdapoieedfcfkofloclfghab",
+    "brave": "https://chromewebstore.google.com/detail/gemwallet/egebedonbdapoieedfcfkofloclfghab",
+    "default": "https://gemwallet.app/"
+  },
+  "website": "https://gemwallet.app/",
+  "backgroundColor": "#3dd4f5",
+  "evmChains": false,
+  "cosmosChains": false,
+  "otherChains": ["XRPL"]
+}
