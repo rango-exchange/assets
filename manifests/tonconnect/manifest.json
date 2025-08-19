@@ -1,5 +1,7 @@
 {
   "url": "https://widget.rango.exchange/",
   "name": "Rango Exchange",
-  "iconUrl": "https://raw.githubusercontent.com/rango-exchange/assets/main/branding/icons/icon.png"
+  "iconUrl": "https://raw.githubusercontent.com/rango-exchange/assets/main/branding/icons/icon.png",
+  "termsOfUseUrl": "https://docs.rango.exchange/terms-of-use",
+  "privacyPolicyUrl": "https://docs.rango.exchange/privacy-policy"
 }
