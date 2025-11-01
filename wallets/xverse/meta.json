@@ -1,0 +1,14 @@
+{
+    "name": "xverse",
+    "displayName": "Xverse",
+    "downloadURLs": {
+        "chrome": "https://chromewebstore.google.com/detail/idnnbdplmphpflfnlkomgpfbpcgelopg",
+        "brave": "https://chromewebstore.google.com/detail/idnnbdplmphpflfnlkomgpfbpcgelopg",
+        "default": "https://www.xverse.app/"
+    },
+    "website": "https://www.xverse.app/",
+    "backgroundColor": "#fff",
+    "evmChains": false,
+    "cosmosChains": false,
+    "otherChains": ["BTC"]
+}
