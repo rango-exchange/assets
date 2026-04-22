@@ -1,0 +1,14 @@
+{
+    "name": "freighter",
+    "displayName": "Freighter",
+    "downloadURLs": {
+        "chrome": "https://chromewebstore.google.com/detail/freighter/bcacfldlkkdogcmkkibnjlakofdplcbk",
+        "brave": "https://chromewebstore.google.com/detail/freighter/bcacfldlkkdogcmkkibnjlakofdplcbk",
+        "default": "https://www.freighter.app/"
+    },
+    "website": "https://www.freighter.app/",
+    "backgroundColor": "#8f70fa",
+    "evmChains": false,
+    "cosmosChains": false,
+    "otherChains": ["STELLAR"]
+}
