@@ -1,0 +1,15 @@
+{
+  "name": "vultisig",
+  "displayName": "Vultisig",
+  "downloadURLs": {
+    "chrome": "https://chromewebstore.google.com/detail/vultisig-extension/ggafhcdaplkhmmnlbfjpnnkepdfjaelb",
+    "default": "https://vultisig.com/downloads"
+  },
+  "website": "https://vultisig.com/",
+  "backgroundColor": "#e9983d",
+  "evmChains": false,
+  "cosmosChains": false,
+  "otherChains": [
+    "ZCASH"
+  ]
+}
