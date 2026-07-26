@@ -1,0 +1,15 @@
+{
+    "name": "noir-wallet",
+    "displayName": "Noir Wallet",
+    "downloadURLs": {
+        "chrome": "https://chromewebstore.google.com/detail/noir-wallet/mfoghjbpfanobmnoemoepenjjcmfpmdn",
+        "default": "https://www.zknoir.com/"
+    },
+    "website": "https://www.zknoir.com/",
+    "backgroundColor": "#dac7ae",
+    "evmChains": false,
+    "cosmosChains": false,
+    "otherChains": [
+        "ZCASH"
+    ]
+}
